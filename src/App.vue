@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="/images/cover.jpg" width =100% height=300px alt="Bookshelf and Globe Selective Color - Union School by Photomatt28 is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/" />
+    <img src="cover.jpeg" width =100% height=300px alt="Bookshelf and Globe Selective Color - Union School by Photomatt28 is licensed with CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/" />
     <div class ="header">
       <h1>Library Tracker</h1>
     </div>
